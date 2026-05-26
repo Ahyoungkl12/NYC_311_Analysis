@@ -29,5 +29,5 @@ Is NYC 311 operational strain driven primarily by weather disruptions or by comp
 ## Repository Contents
 
 * `NYC 311 Analysis_Final.ipynb` → Final analysis notebook
-* `sql_queries.sql` → SQL query file
+* `NYC 311 Analysis_SQL Code.SQL` → SQL query file
 * `NYC 311 Analysis_Presentation.pdf` → Final presentation deck
